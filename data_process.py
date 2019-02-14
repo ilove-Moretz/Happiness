@@ -106,7 +106,7 @@ def data_feature_engineering(data):
                                '|health_.*|health_problem_.*|depression_.*|socialize_.*|relax_.*|equity_.*|family_status_.*|family_m_.*'
                                '|class_.*|car_.*|marital_.*|status_peer_.*|status_3_before_.*|view_.*|inc_ability_.*|province_.*|Age_scaled|income_scaled|floor_area_scaled|height_cm_scaled|weight_jin_scaled|family_m_scaled')
     #print(train_df.columns.values.tolist())
-    train_df.info()
+    #train_df.info()
     #print("i am here")
     #train_df
     #train_df.to_csv("D:\Competition\Happiness\data\y.csv", index=True)
