@@ -1,1 +1,1 @@
-HELLO ,This is my baseline of the competition happiness
+233 This is my baseline of the competition happiness
